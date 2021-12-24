@@ -37,10 +37,8 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## My Skill Set  
 
-
-### Interest  
+## Interest  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  

@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### <div align="center"> Hi there 👋 I'm UNI-Maeng , Front-end developer 👨‍💻  🚀</div>  
+  
 <!--
 **UNI-Meang/UNI-Meang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 200px" />
 </div>  
   
 
-### <div align="center">I'm UNI-Maeng , Front-end developer 👨‍💻  🚀</div>  
-  
+
 
 - 🔭 (https://github.com/rishavanand/github-profilinator)  
   

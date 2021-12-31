@@ -82,9 +82,8 @@ Here are some ideas to get you started:
 
 
 ## Recent Blog Posts  
-BLOG-POST-LIST:START  
-https://velog.io/@kimjumpsun_code
-BLOG-POST-LIST:END  
+
+
 
 <br/>  
 <!-- 

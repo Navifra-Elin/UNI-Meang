@@ -21,16 +21,18 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 (https://github.com/rishavanand/github-profilinator)  
+<!-- - 🔭 (https://github.com/rishavanand/github-profilinator)   -->
+  
+- 👩🏻‍💻 I Keep In Mind "To represent logic by action and to prove the process by results, Attitude is everything!" 
+
+
+- 🌱 I’m currently learning JavaScript & React 
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- ❓ Ask me about anything related to mindset , aim and problem solving skills related technologies  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🙆 Fun fact: I'm an Introvert but I can be any type of person. 
   
 
 <br/>  

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 (https://github.com/rishavanand/github-profilinator)   -->
   
-- 👩🏻‍💻 I Keep In Mind "To represent logic by action and to prove the process by results, Attitude is everything!" 
+- 👩🏻 I Keep In Mind "To represent logic by action and to prove the process by results, Attitude is everything!" 
 
 
 - 🌱 I’m currently learning JavaScript & React 

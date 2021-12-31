@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 <!-- - 🔭 (https://github.com/rishavanand/github-profilinator)   -->
+<br>
   
  👩🏻 I Keep In Mind "To represent logic by action and to prove the process by results, Attitude is everything!" 
 
@@ -81,8 +82,8 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Recent Blog Posts  
-
+<!-- ## Recent Blog Posts  
+ -->
 
 
 <br/>  

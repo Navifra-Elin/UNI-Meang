@@ -1,4 +1,4 @@
-### <div align="center"> Hi there 👋 I'm UNI-Maeng , Front-end developer 👨‍💻  🚀</div>  
+### <div align="center"> Hi there! 👋 I'm UNI-Maeng , Front-end developer 👨‍💻  🚀</div>  
   
 <!--
 **UNI-Meang/UNI-Meang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 (https://github.com/rishavanand/github-profilinator)   -->
   
-- 👩🏻 I Keep In Mind "To represent logic by action and to prove the process by results, Attitude is everything!" 
+ 👩🏻 I Keep In Mind "To represent logic by action and to prove the process by results, Attitude is everything!" 
 
 
-- 🌱 I’m currently learning JavaScript & React 
+ 🌱 I’m currently learning JavaScript & React 
   
 
-- ❓ Ask me about anything related to mindset , aim and problem solving skills related technologies  
+ ❓ Ask me about anything related to mindset , aim and problem solving skills related technologies  
   
 
-- 🙆 Fun fact: I'm an Introvert but I can be any type of person. 
+ 🙆 Fun fact: I'm an Introvert but I can be any type of person. 
   
 
 <br/>  
@@ -82,9 +82,10 @@ Here are some ideas to get you started:
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+BLOG-POST-LIST:START  
+https://velog.io/@kimjumpsun_code
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+BLOG-POST-LIST:END  
 
 <br/>  
 <!-- 

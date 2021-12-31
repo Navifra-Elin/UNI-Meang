@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 ## Recent Blog Posts  
 BLOG-POST-LIST:START  
 https://velog.io/@kimjumpsun_code
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 BLOG-POST-LIST:END  
 
 <br/>  
@@ -110,4 +109,4 @@ BLOG-POST-LIST:END
 <br />
  -->
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->

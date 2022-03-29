@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
  🌱 I’m currently learning JavaScript & React 
  
- 📚 I'm a co-author of two books. If you are curious about these books, you can read them [here](https://ridibooks.com/books/2773000055?_rdt_sid=freebooks-list&_rdt_idx=1) & [here](<b> It's free! </b>
+ 📚 I'm a co-author of two books. If you are curious about these books, you can read them [here](https://ridibooks.com/books/2773000055?_rdt_sid=freebooks-list&_rdt_idx=1) & [here](https://ridibooks.com/books/2773000054?_rdt_sid=category-books&_rdt_idx=1)<b> It's free! </b>
   
 
  ❓ Ask me about anything related to mindset , aim and problem solving skills related technologies  

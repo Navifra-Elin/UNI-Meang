@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 <!-- - 🔭 (https://github.com/rishavanand/github-profilinator)   -->
 <br>
   
- 👩🏻 I Keep In Mind "To represent logic by action and to prove the process by results, Attitude is everything!" 
+ 👩🏻 I Keep In Mind <b>"To represent logic by action and to prove the process by results, Attitude is everything!" </b>
 
 
  🌱 I’m currently learning JavaScript & React 
+ 
+ 📚 I'm a co-author of two books
   
 
  ❓ Ask me about anything related to mindset , aim and problem solving skills related technologies  

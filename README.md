@@ -1,4 +1,4 @@
-### <div align="center"> Hi there! 👋 I'm UNI-Maeng , Front-end developer 👨‍💻  🚀</div>  
+### <div align="center"> Hi there! 👋 I'm UNI-Maeng 👨‍💻  🚀</div>  
   
 <!--
 **UNI-Meang/UNI-Meang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
